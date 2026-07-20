@@ -16,3 +16,7 @@ body {
 .critical-edition {
     color: red;
 }
+
+div {
+    margin: 10px 0;
+}
