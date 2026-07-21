@@ -17,6 +17,21 @@ body {
     color: red;
 }
 
+.iframe-placeholder {
+    background: url(../assets/iframe-placeholder-choo-choo.gif) center center no-repeat;
+    width: 855px;
+    height: 480px;
+    border: none;
+}
+
 div {
     margin: 10px 0;
+}
+
+iframe {
+    width: 855px;
+    height: 480px;
+    border: none;
+    scrolling: no;
+    allowfullscreen: yes;
 }
